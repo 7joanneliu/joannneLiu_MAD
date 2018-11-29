@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">lab7</string>
+    <string name="forward_to_fwd">Fwd to FWD</string>
+    <string name="fig_tree_image">fig tree image</string>
+    <string name="button">fwd</string>
+    <string name="suggested_name">FWD</string>
+    <string name="receiveMessage">fwd to</string>
+    <string name="fwdFinal">Joanne\'s Front Web Dev Page</string>
+</resources>
