@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">joanneLiuFinal</string>
+    <string name="bake_it">BAKE IT</string>
+    <string name="toggle_on">Red</string>
+    <string name="toggle_off">White</string>
+    <string name="build_my_pizza">Build My Pizza</string>
+    <string name="size">size</string>
+    <string name="radiobutton1">RadioButton1</string>
+    <string name="radio1">thin crust</string>
+    <string name="radiobutton2">RadioButton</string>
+    <string name="radio2">thick crust</string>
+    <string-array name="size">
+        <item>small</item>
+        <item>medium</item>
+        <item>large</item>
+    </string-array>
+    <string name="cheese">cheese</string>
+    <string name="veggie">veggie</string>
+    <string name="meat">meat</string>
+    <string name="supreme">veggie + meat</string>
+    <string name="name">Name</string>
+    <string name="gluten_free">gluten free</string>
+</resources>
